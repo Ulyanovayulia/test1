@@ -1,2 +1,6 @@
 dnjshjw363736
+<<<<<<< HEAD
 sksjskj
+=======
+hfjhfj
+>>>>>>> 2
